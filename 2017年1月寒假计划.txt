@@ -23,6 +23,6 @@
 	2, 了解公众号的运营；
 	
 五，Books or Articles I read in this period of my life.
-	* Mavlink Tutorial for Absolute Dummies (Part-I)
-	* The Drone Pi
-	* 毛泽东兵法 - 谭一清
+	* Mavlink Tutorial for Absolute Dummies (Part-I) √
+	* The Drone Pi √
+	* 毛泽东兵法 - 谭一清 
