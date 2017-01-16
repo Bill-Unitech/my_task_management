@@ -9,7 +9,7 @@
 二，unitech教学视频
 	1，最基础的python教程；
 		* 1-7  √
-		* 8-15 √
+		* 8-15 
 
 三，无人机项目
 	1，learn about Mavlink;
@@ -27,7 +27,11 @@
 	
 	2, 了解公众号的运营；
 	
-五，Books or Articles I read in this period of my life.
+五，考勤网站开发
+	
+	
+	
+	六，Books or Articles I read in this period of my life.
 
 	英文书籍&文献：
 
@@ -36,4 +40,5 @@
 	
 	中文书籍&文献：
 	
-	* 毛泽东兵法 - 谭一清 (不好看)
+	* 毛泽东兵法 - 谭一清 ...(不好看)
+	* 深入浅出数据分析 - O'REILLY  
