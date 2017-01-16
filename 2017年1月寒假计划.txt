@@ -15,6 +15,7 @@
 	1，learn about Mavlink;
 		* USB
 		* Telemetry
+		
 	2，买工具 - 螺丝刀 √
 	
 	3，看视频
@@ -22,7 +23,9 @@
 	
 
 四，法律新媒体
+
 	1，了解公众号的开发流程；
+	
 	2, 了解公众号的运营；
 	
 五，Books or Articles I read in this period of my life.
@@ -34,4 +37,4 @@
 	
 	中文书籍&文献：
 	
-	* 毛泽东兵法 - 谭一清 
+	* 毛泽东兵法 - 谭一清 (不好看)
