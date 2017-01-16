@@ -14,7 +14,7 @@
 	1，learn about Mavlink;
 		* USB
 		* Telemetry
-	2，买工具 - 螺丝刀
+	2，买工具 - 螺丝刀 √
 	
 	3，看视频
 
@@ -25,3 +25,4 @@
 五，Books or Articles I read in this period of my life.
 	* Mavlink Tutorial for Absolute Dummies (Part-I)
 	* The Drone Pi
+	* 毛泽东兵法 - 谭一清
